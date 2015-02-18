@@ -1,0 +1,33 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "rorpage",
+    "longName": "MxPx Watch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/RobotoSlab-Regular.ttf",
+                "name": "ROBOTO_SLAB_20",
+                "type": "font"
+            },
+            {
+                "file": "images/punk_144x168.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "MxPx Watch",
+    "uuid": "6bc421ba-dadb-409e-8fcb-571af9b24059",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
